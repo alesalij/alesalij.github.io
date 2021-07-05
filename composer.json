@@ -1,0 +1,15 @@
+{
+    "require": {
+        "slim/slim": "^4.0",
+        "slim/psr7": "^1.4",
+        "slim/http": "^1.2",
+        "nyholm/psr7": "^1.4",
+        "nyholm/psr7-server": "^1.0",
+        "laminas/laminas-diactoros": "^2.6"
+    },
+    "autoload": {
+    "psr-4": {
+      "App\\": "./"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+$data: Array
+(
+    [update_id] => 583421894
+    [message] => Array
+        (
+            [message_id] => 55
+            [from] => Array
+                (
+                    [id] => 460932451
+                    [is_bot] => 
+                    [first_name] => Alex
+                    [username] => alexandr_salij
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 460932451
+                    [first_name] => Alex
+                    [username] => alexandr_salij
+                    [type] => private
+                )
+
+            [date] => 1625231038
+            [text] => 111
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 583421895
+    [message] => Array
+        (
+            [message_id] => 56
+            [from] => Array
+                (
+                    [id] => 460932451
+                    [is_bot] => 
+                    [first_name] => Alex
+                    [username] => alexandr_salij
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 460932451
+                    [first_name] => Alex
+                    [username] => alexandr_salij
+                    [type] => private
+                )
+
+            [date] => 1625231043
+            [text] => 222
+        )
+
+)
+
+$data: 
+$data: 

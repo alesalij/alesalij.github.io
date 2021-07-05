@@ -1,0 +1,3 @@
+<diagram program="umletino" version="14.4.0-SNAPSHOT"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLGeneric</id><coordinates><x>550</x><y>60</y><w>200</w><h>110</h></coordinates><panel_attributes>symbol=component
+Component</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLGeneric</id><coordinates><x>390</x><y>270</y><w>200</w><h>110</h></coordinates><panel_attributes>symbol=component
+index.php</panel_attributes><additional_attributes></additional_attributes></element></diagram>
